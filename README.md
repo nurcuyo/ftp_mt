@@ -1,4 +1,4 @@
-#FTP client and server with multiple threads
+# FTP client and server with multiple threads
 
 To use the program, first run the ftpserver.py program to start the server.
 
