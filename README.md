@@ -1,7 +1,4 @@
-CNT4007
-Nikolas Urcuyo 
-UFID: 5450-8911
-Project 2- FTP client and server with multiple threads
+FTP client and server with multiple threads
 
 To use the program, first run the ftpserver.py program to start the server.
 
